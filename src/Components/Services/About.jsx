@@ -39,7 +39,7 @@ const About = () => {
   ];
 
   return (
-    <div class="xl:container m-auto space-y-12 px-6 md:px-12 lg:px-20 mt-10">
+    <div class="xl:container m-auto space-y-12 md:px-12 lg:px-20 mt-10">
       <div class="relative flex flex-col items-center overflow-hidden py-20 md:py-40 ">
         <div class="container relative z-[1] m-auto px-6 md:px-12">
           <div class="m-auto text-center md:w-8/12 lg:w-6/12">
