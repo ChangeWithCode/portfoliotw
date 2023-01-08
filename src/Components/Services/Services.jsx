@@ -27,7 +27,7 @@ const Services = () => {
         <div class="py-2">
             <div class="xl:container m-auto space-y-12 px-6 md:px-12 lg:px-20">
                 <div>
-                    <h2 class="mt-4 text-center text-8xl font-bold text-gray-800 dark:text-white md:text-6xl">
+                    <h2 class="mt-4 text-center lg:text-8xl font-bold text-gray-800 dark:text-white md:text-8xl sm:text-4xl">
                         Favorite technologies
                     </h2>
                 </div>
