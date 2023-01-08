@@ -48,7 +48,7 @@ const About = () => {
             </h2>
           </div>
 
-          <div class="container m-auto px-6 text-gray-500 md:px-12 xl:px-0 mt-20">
+          <div class="container m-auto px-3 text-gray-500 md:px-12 xl:px-0 mt-20">
             <div class="mx-auto grid gap-6 md:w-3/4 lg:w-full lg:grid-cols-3">
               {projects &&
                 projects.map((obj) => {
